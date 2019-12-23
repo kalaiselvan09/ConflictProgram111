@@ -18,9 +18,13 @@ we are the maintaining jar files.(java,core,selenium,junit)
 
 TestRunner-->feature  --> Snippet generate --> glue (stepdefinition & feaure file) -->
 Hooks--> Before & After, backfground, java class 
+
+
 kalaisrithu typing
 lotus is flower
 horse is flower
 
-
+add conflict
+new
+close
 
