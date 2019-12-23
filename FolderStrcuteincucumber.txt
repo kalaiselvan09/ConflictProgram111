@@ -10,7 +10,8 @@ Src/test/Resources
        Features --> folder --> to maintain the feature fail
        Driver  --> folder  --> chrome driver and firefox and ie
 
-
+Add Conflict
+How to add Conflict 
 Pom.xml
 --------------
 we are the maintaining jar files.(java,core,selenium,junit)
