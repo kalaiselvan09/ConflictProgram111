@@ -10,13 +10,17 @@ Src/test/Resources
        Features --> folder --> to maintain the feature fail
        Driver  --> folder  --> chrome driver and firefox and ie
 
-
+Add Conflict
+How to add Conflict 
 Pom.xml
 --------------
 we are the maintaining jar files.(java,core,selenium,junit)
 
 TestRunner-->feature  --> Snippet generate --> glue (stepdefinition & feaure file) -->
 Hooks--> Before & After, backfground, java class 
+kalaisrithu typing
+lotus is flower
+horse is flower
 Code edited by V
 for(int i=0;i<ch.length;i++)
 		{
@@ -26,3 +30,8 @@ for(int i=0;i<ch.length;i++)
 			}
 		}
 End of code by v
+
+
+
+
+
