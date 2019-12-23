@@ -1,0 +1,22 @@
+Src/test/java
+    Objectreposiroty--> each page we are maintaing the locators
+			by using POM ( pagefacotry)
+    resources  --> baseclass or helper class or built functionality
+    stepdefinition --> each page java class
+		       Hooks.java
+                       TestRunner.java
+
+Src/test/Resources
+       Features --> folder --> to maintain the feature fail
+       Driver  --> folder  --> chrome driver and firefox and ie
+
+
+Pom.xml
+--------------
+we are the maintaining jar files.(java,core,selenium,junit)
+
+TestRunner-->feature  --> Snippet generate --> glue (stepdefinition & feaure file) -->
+Hooks--> Before & After, backfground, java class 
+
+
+
